@@ -1,6 +1,7 @@
 # Stardust Vault: Your Gateway to the Stellar Cosmos
 The Stellar Web3 Wallet seamlessly integrates with a variety of DeFi services and P2P platforms, providing a secure and user-friendly experience for managing Stellar assets and participating in the decentralized economy.
 
+![Alt text](Docs/Image/Thumbs/C2.jpg?raw=true "Stardust Vault")
 
 ## About Stardust Vault
 **Stardust Vault** is a cutting-edge web3 wallet designed to empower you to navigate the Stellar network with ease and security. This innovative wallet offers a seamless user experience, integrating essential features to enhance your Stellar journey.
